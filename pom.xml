@@ -130,7 +130,7 @@
     <version.com.zaxxer>2.4.0</version.com.zaxxer>
     <version.com.google.code.gson>2.3.1</version.com.google.code.gson>
     <version.com.google.guava>21.0</version.com.google.guava>
-    <version.io.searchbox.jest>0.1.7</version.io.searchbox.jest>
+    <version.io.searchbox.jest>2.0.0</version.io.searchbox.jest>
     <version.io.prometheus>0.0.13</version.io.prometheus>
     <version.javax.enterprise>1.2</version.javax.enterprise>
     <version.joda-time>2.7</version.joda-time>
@@ -141,16 +141,16 @@
     <version.org.apache.httpcomponents.httpclient>4.5.3</version.org.apache.httpcomponents.httpclient>
     <version.org.apache.httpcomponents.httpcore>4.4.1</version.org.apache.httpcomponents.httpcore>
     <version.org.apache.httpcomponents.httpasyncclient>4.1</version.org.apache.httpcomponents.httpasyncclient>
-    <version.org.apache.logging.log4j>2.8.2</version.org.apache.logging.log4j>
+    <version.org.apache.logging.log4j>2.13.2</version.org.apache.logging.log4j>
     <version.org.eclipse.jetty>9.2.20.v20161216</version.org.eclipse.jetty>
     <version.org.glassfish.javax.el>3.0.0</version.org.glassfish.javax.el>
-    <version.org.elasticsearch>1.7.2</version.org.elasticsearch>
+    <version.org.elasticsearch>2.0.0</version.org.elasticsearch>
     <version.org.hibernate.javax.persistence.hibernate-jpa-2.1-api>1.0.0.Final</version.org.hibernate.javax.persistence.hibernate-jpa-2.1-api>
     <version.org.hibernate>5.0.9.Final</version.org.hibernate>
     <version.org.infinispan>8.1.9.Final</version.org.infinispan>
     <version.org.jboss.jandex>2.0.2.Final</version.org.jboss.jandex>
     <version.org.jboss.logging.jboss-logging>3.3.0.Final</version.org.jboss.logging.jboss-logging>
-    <version.org.jboss.resteasy>3.1.4.Final</version.org.jboss.resteasy>
+    <version.org.jboss.resteasy>3.11.0.Final</version.org.jboss.resteasy>
     <version.org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec>1.0.2.Final</version.org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec>
     <version.org.jboss.spec.javax.transaction.jboss-transaction-api_1.2_spec>1.0.0.Final</version.org.jboss.spec.javax.transaction.jboss-transaction-api_1.2_spec>
     <version.org.jboss.spec.javax.ws.jboss-jaxrs-api_2.0_spec>1.0.0.Final</version.org.jboss.spec.javax.ws.jboss-jaxrs-api_2.0_spec>
@@ -164,7 +164,7 @@
     <version.io.netty>4.1.8.Final</version.io.netty>
     <version.io.swagger>1.5.13</version.io.swagger>
     <version.xmlunit>1.6</version.xmlunit>
-    <version.io.vertx>3.4.2</version.io.vertx>
+    <version.io.vertx>3.5.0</version.io.vertx>
     <version.net.openhft>0.6</version.net.openhft>
     <version.com.ibm.icu4j>57.1</version.com.ibm.icu4j>
     <version.com.hazelcast>3.6.4</version.com.hazelcast>
