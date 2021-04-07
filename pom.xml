@@ -130,7 +130,7 @@
     <version.com.zaxxer>2.4.0</version.com.zaxxer>
     <version.com.google.code.gson>2.3.1</version.com.google.code.gson>
     <version.com.google.guava>21.0</version.com.google.guava>
-    <version.io.searchbox.jest>0.1.7</version.io.searchbox.jest>
+    <version.io.searchbox.jest>2.4.0</version.io.searchbox.jest>
     <version.io.prometheus>0.0.13</version.io.prometheus>
     <version.javax.enterprise>1.2</version.javax.enterprise>
     <version.joda-time>2.7</version.joda-time>
@@ -142,7 +142,7 @@
     <version.org.apache.httpcomponents.httpcore>4.4.1</version.org.apache.httpcomponents.httpcore>
     <version.org.apache.httpcomponents.httpasyncclient>4.1</version.org.apache.httpcomponents.httpasyncclient>
     <version.org.apache.logging.log4j>2.8.2</version.org.apache.logging.log4j>
-    <version.org.eclipse.jetty>9.2.20.v20161216</version.org.eclipse.jetty>
+    <version.org.eclipse.jetty>9.2.27.v20190403</version.org.eclipse.jetty>
     <version.org.glassfish.javax.el>3.0.0</version.org.glassfish.javax.el>
     <version.org.elasticsearch>1.7.2</version.org.elasticsearch>
     <version.org.hibernate.javax.persistence.hibernate-jpa-2.1-api>1.0.0.Final</version.org.hibernate.javax.persistence.hibernate-jpa-2.1-api>
@@ -154,7 +154,7 @@
     <version.org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec>1.0.2.Final</version.org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec>
     <version.org.jboss.spec.javax.transaction.jboss-transaction-api_1.2_spec>1.0.0.Final</version.org.jboss.spec.javax.transaction.jboss-transaction-api_1.2_spec>
     <version.org.jboss.spec.javax.ws.jboss-jaxrs-api_2.0_spec>1.0.0.Final</version.org.jboss.spec.javax.ws.jboss-jaxrs-api_2.0_spec>
-    <version.org.jboss.weld.weld>2.3.3.Final</version.org.jboss.weld.weld>
+    <version.org.jboss.weld.weld>2.4.0.Final</version.org.jboss.weld.weld>
     <version.org.keycloak>2.5.5.Final</version.org.keycloak>
     <version.org.mockito>1.9.5</version.org.mockito>
     <version.org.mvel>2.2.7.Final</version.org.mvel>
