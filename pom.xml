@@ -118,7 +118,7 @@
     <version.com.squareup.okio>1.4.0</version.com.squareup.okio>
     <version.com.unboundid.unboundid-ldapsdk>3.0.0</version.com.unboundid.unboundid-ldapsdk>
     <version.commons-beanutils>1.9.3</version.commons-beanutils>
-    <version.commons-codec>1.10</version.commons-codec>
+    <version.commons-codec>1.13</version.commons-codec>
     <version.commons-collections>3.2.2</version.commons-collections>
     <version.commons-configuration>1.10</version.commons-configuration>
     <version.commons-dbcp>1.4</version.commons-dbcp>
@@ -130,7 +130,7 @@
     <version.com.zaxxer>2.4.0</version.com.zaxxer>
     <version.com.google.code.gson>2.3.1</version.com.google.code.gson>
     <version.com.google.guava>21.0</version.com.google.guava>
-    <version.io.searchbox.jest>0.1.7</version.io.searchbox.jest>
+    <version.io.searchbox.jest>2.4.0</version.io.searchbox.jest>
     <version.io.prometheus>0.0.13</version.io.prometheus>
     <version.javax.enterprise>1.2</version.javax.enterprise>
     <version.joda-time>2.7</version.joda-time>
