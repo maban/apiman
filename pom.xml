@@ -130,7 +130,7 @@
     <version.com.zaxxer>2.4.0</version.com.zaxxer>
     <version.com.google.code.gson>2.3.1</version.com.google.code.gson>
     <version.com.google.guava>21.0</version.com.google.guava>
-    <version.io.searchbox.jest>0.1.7</version.io.searchbox.jest>
+    <version.io.searchbox.jest>2.0.0</version.io.searchbox.jest>
     <version.io.prometheus>0.0.13</version.io.prometheus>
     <version.javax.enterprise>1.2</version.javax.enterprise>
     <version.joda-time>2.7</version.joda-time>
@@ -138,7 +138,7 @@
     <version.org.apache.commons.commons-lang3>3.3.2</version.org.apache.commons.commons-lang3>
     <version.org.apache.directory.server>1.5.7</version.org.apache.directory.server>
     <version.org.apache.directory.shared-ldap>0.9.19</version.org.apache.directory.shared-ldap>
-    <version.org.apache.httpcomponents.httpclient>4.5.3</version.org.apache.httpcomponents.httpclient>
+    <version.org.apache.httpcomponents.httpclient>4.5.7</version.org.apache.httpcomponents.httpclient>
     <version.org.apache.httpcomponents.httpcore>4.4.1</version.org.apache.httpcomponents.httpcore>
     <version.org.apache.httpcomponents.httpasyncclient>4.1</version.org.apache.httpcomponents.httpasyncclient>
     <version.org.apache.logging.log4j>2.8.2</version.org.apache.logging.log4j>
